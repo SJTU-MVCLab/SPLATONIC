@@ -1,0 +1,8 @@
+[submodule "track-rasterization"]
+	path = track-rasterization
+	url = https://github.com/StoneSix16/Pixel-based-Rasterization.git
+	branch = track
+[submodule "map-rasterization"]
+	path = map-rasterization
+	url = https://github.com/StoneSix16/Pixel-based-Rasterization.git
+	branch = map
