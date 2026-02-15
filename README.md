@@ -7,6 +7,10 @@
 <h3 align="center">HPCA 2026</h3>
 <h3 align="center"><a href="https://stonesix16.github.io/SPLATONIC/">Webpage</a> | <a href="https://stonesix16.github.io/SPLATONIC/paper.pdf">Paper</a> | <a href="https://arxiv.org/abs/2511.18755">arXiv</a></h3>
 
+
+https://github.com/user-attachments/assets/9b9c57d4-d50f-46e2-a5bd-2cf37a69668b
+
+
 This repository cantains the official software implementation of **SPLATONIC**, a sparse and efficient realtime [3D Gaussian Splatting (3DGS)](https://github.com/graphdeco-inria/gaussian-splatting) SLAM algorithm-hardware co-design with a novel rendering pipeline for resource-constrained device. Specifically, SPLATONIC proposes an adaptive pixel sampling algorithm with up to **256x computaion reduction** as well as comparable accuracy, and address the underutilization in original training process with pixel-based rendering pipeline. SPLATONIC could achieve **14.6x speedup** on NVIDIA AGX Orin mobile SoC on average.
 
 This implementation is based on [SplaTAM](https://github.com/spla-tam/SplaTAM), we will release implementations based on other algorithms in the future.
